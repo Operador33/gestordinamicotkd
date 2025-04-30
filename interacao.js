@@ -1,3 +1,4 @@
+console.log("Script carregado!");
 document.addEventListener("DOMContentLoaded", () => {
     const buttonContainer = document.getElementById("buttonContainer");
     const dynamicTable = document.getElementById("dynamicTable").querySelector("tbody");
