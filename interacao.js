@@ -1,4 +1,3 @@
-<script>
 document.addEventListener("DOMContentLoaded", () => {
     const buttonContainer = document.getElementById("buttonContainer");
     const dynamicTable = document.getElementById("dynamicTable").querySelector("tbody");
@@ -76,4 +75,3 @@ document.addEventListener("DOMContentLoaded", () => {
         reader.readAsArrayBuffer(file);
     });
 });
-</script>
