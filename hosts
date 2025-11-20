@@ -5,12 +5,188 @@
   ],
   "hosts": [
     {
-      "id": 1763611529835,
+      "id": 1763616664713,
       "nome": "TikTok",
       "categoria": "SOLICITAÇÕES INTERNAS DE TAKEDOWN",
       "link": "https://www.tiktok.com/legal/report/Trademark/?lang=pt-BR",
-      "instrucoes": "Preencher formulário com nome do Sandro.\nObservar atentamente todos os campos preenchidos.\nIncluir procuração e INPI.",
-      "obs": "Verificar periodicamente."
+      "instrucoes": "Incluir INPI e procuração\nPreencher form com nome do Sandro\nVerificar minuciosamente o preenchimento",
+      "obs": "Verificar ciclo de vida do report periódicamente"
+    }
+   {
+      "id": 1001,
+      "nome": "Carrd.co",
+      "categoria": "Links de Abuso e Takedown",
+      "link": "https://carrd.co/contact/copyright",
+      "instrucoes": "Seguir o processo de notificação de direitos autorais.",
+      "obs": ""
+    },
+    {
+      "id": 1002,
+      "nome": "Meta - WhatsApp",
+      "categoria": "Links de Abuso e Takedown",
+      "link": "https://www.whatsapp.com/contact/forms/5071674689613749/",
+      "instrucoes": "Utilizar o formulário de contato para questões específicas.",
+      "obs": ""
+    },
+    {
+      "id": 1003,
+      "nome": "Vercel",
+      "categoria": "Links de Abuso e Takedown",
+      "link": "https://vercel.com/abuse",
+      "instrucoes": "Preencher o formulário de denúncia de abuso.",
+      "obs": ""
+    },
+    {
+      "id": 1004,
+      "nome": "Ste Primo",
+      "categoria": "SOLICITAÇÕES INTERNAS DE TAKEDOWN",
+      "link": "https://steprimo.com/android/en/dmca/",
+      "instrucoes": "Preencher o formulário DMCA em nome do Sandro, semelhante ao procedimento do YouTube.",
+      "obs": "Verificar minuciosamente o preenchimento, incluindo todos os detalhes de contato."
+    },
+    {
+      "id": 1005,
+      "nome": "Reddit",
+      "categoria": "Links de Abuso e Takedown",
+      "link": "https://support.reddithelp.com/hc/en-us/requests/new?ticket_form_id=16510899084308",
+      "instrucoes": "Abrir um novo pedido de suporte no formulário específico.",
+      "obs": ""
+    },
+    {
+      "id": 1006,
+      "nome": "Bluesky",
+      "categoria": "Links de Abuso e Takedown",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSc4EzXFaEkm1y3eu7cHyfb2YXqu9QRZB63KB9VXBaniJzqO8A/viewform",
+      "instrucoes": "Preencher o formulário do Google Docs para denúncia.",
+      "obs": ""
+    },
+    {
+      "id": 1007,
+      "nome": "Bio.site",
+      "categoria": "Links de Abuso e Takedown",
+      "link": "https://support.squarespace.com/hc/pt/requests/new?ticket_form_id=23285437445261",
+      "instrucoes": "Usar o formulário de solicitação de suporte da Squarespace.",
+      "obs": ""
+    },
+    {
+      "id": 1008,
+      "nome": "Bio.link",
+      "categoria": "Links de Abuso e Takedown",
+      "link": "https://bio.link/report",
+      "instrucoes": "Utilizar o link direto de denúncia.",
+      "obs": ""
+    },
+    {
+      "id": 1009,
+      "nome": "Docsity",
+      "categoria": "Links de Abuso e Takedown",
+      "link": "https://support.docsity.com/hc/pt-br/requests/new",
+      "instrucoes": "Abrir uma nova solicitação através do formulário de suporte.",
+      "obs": ""
+    },
+    {
+      "id": 1010,
+      "nome": "Hostinger",
+      "categoria": "Links de Abuso e Takedown",
+      "link": "https://www.hostinger.com.br/denunciar-abuso",
+      "instrucoes": "Seguir o processo de denúncia de abuso do Hostinger Brasil.",
+      "obs": ""
+    },
+    {
+      "id": 1011,
+      "nome": "Prezi",
+      "categoria": "Links de Abuso e Takedown",
+      "link": "https://prezi.com/contact/abuse/?click_source=logged_element&page_location=contact_options&element_text=abuse",
+      "instrucoes": "Utilizar o link de contato específico para abuso.",
+      "obs": ""
+    },
+    {
+      "id": 1012,
+      "nome": "Linktr.ee",
+      "categoria": "Links de Abuso e Takedown",
+      "link": "https://linktr.ee/s/about/trust-center/report/",
+      "instrucoes": "Acessar a central de confiança e preencher o formulário de denúncia.",
+      "obs": ""
+    },
+    {
+      "id": 1013,
+      "nome": "Mercado Livre",
+      "categoria": "Links de Abuso e Takedown",
+      "link": "https://www.mercadolivre.com.br/ajuda/form?hub_id=120&source_id=1628&track_id=c6ni11vj9rajlu8h77c0&problem_id=527&isRedirect=true",
+      "instrucoes": "Usar o formulário de ajuda específico para problemas.",
+      "obs": ""
+    },
+    {
+      "id": 1014,
+      "nome": "Scribd",
+      "categoria": "Links de Abuso e Takedown",
+      "link": "http://scribd.com/copyright/report-infringement",
+      "instrucoes": "Acessar a página de notificação de infração de direitos autorais.",
+      "obs": ""
+    },
+    {
+      "id": 1015,
+      "nome": "Docplayer",
+      "categoria": "Links de Abuso e Takedown",
+      "link": "https://docplayer.com.br/support/feedback/",
+      "instrucoes": "Utilizar o formulário de feedback (Nota: Consta como OFF no momento, verificar o status antes de usar).",
+      "obs": "OFF NO MOMENTO - Requer verificação."
+    },
+    {
+      "id": 1016,
+      "nome": "Bitly",
+      "categoria": "Links de Abuso e Takedown",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeOH7U_4bEEx4u8K4QCIvcJYVBF1kxzdrItqcZffjBdIWfGIQ/reportabuse",
+      "instrucoes": "Preencher o formulário de denúncia de abuso.",
+      "obs": ""
+    },
+    {
+      "id": 1017,
+      "nome": "Digital Ocean",
+      "categoria": "Links de Abuso e Takedown",
+      "link": "https://www.digitalocean.com/company/contact#abuse",
+      "instrucoes": "Acessar a seção de contato para denúncia de abuso.",
+      "obs": ""
+    },
+    {
+      "id": 1018,
+      "nome": "Yolasite",
+      "categoria": "Links de Abuso e Takedown",
+      "link": "https://helpcenter.yola.com/hc/en-us/requests/new?ticket_form_id=360001504300",
+      "instrucoes": "Abrir um novo ticket de solicitação.",
+      "obs": ""
+    },
+    {
+      "id": 1019,
+      "nome": "Hostgator",
+      "categoria": "Links de Abuso e Takedown",
+      "link": "https://www.hostgator.com.br/denuncia",
+      "instrucoes": "Utilizar o link de denúncia do Hostgator Brasil.",
+      "obs": ""
+    },
+    {
+      "id": 1020,
+      "nome": "OVH SAS",
+      "categoria": "Links de Abuso e Takedown",
+      "link": "https://www.ovh.com/abuse/#!/",
+      "instrucoes": "Acessar a página de denúncia de abuso da OVH.",
+      "obs": ""
+    },
+    {
+      "id": 1021,
+      "nome": "Weebly",
+      "categoria": "Links de Abuso e Takedown",
+      "link": "https://www.weebly.com/br/spam",
+      "instrucoes": "Seguir o processo de denúncia de spam/abuso no Weebly.",
+      "obs": ""
+    },
+    {
+      "id": 1022,
+      "nome": "GoDaddy",
+      "categoria": "Links de Abuso e Takedown",
+      "link": "https://supportcenter.godaddy.com/AbuseReport?",
+      "instrucoes": "Preencher o formulário de Denúncia de Abuso da GoDaddy.",
+      "obs": ""
     }
   ]
 }
