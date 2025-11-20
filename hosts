@@ -1,18 +1,19 @@
 {
   "categories": [
     "Geral",
-    "SOLICITAÇÕES INTERNAS DE TAKEDOWN"
+    "SOLICITAÇÕES INTERNAS DE TAKEDOWN",
+    "Links de Abuso e Takedown"
   ],
   "hosts": [
     {
-      "id": 1000,
+      "id": 1763616664713,
       "nome": "TikTok",
       "categoria": "SOLICITAÇÕES INTERNAS DE TAKEDOWN",
       "link": "https://www.tiktok.com/legal/report/Trademark/?lang=pt-BR",
       "instrucoes": "Incluir INPI e procuração\nPreencher form com nome do Sandro\nVerificar minuciosamente o preenchimento",
       "obs": "Verificar ciclo de vida do report periódicamente"
-    }
-   {
+    },
+    {
       "id": 1001,
       "nome": "Carrd.co",
       "categoria": "Links de Abuso e Takedown",
