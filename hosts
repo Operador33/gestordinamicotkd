@@ -1,193 +1,830 @@
-{
-  "categories": [
-    "Geral",
-    "SOLICITAÇÕES INTERNAS DE TAKEDOWN",
-    "Links de Abuso e Takedown"
-  ],
-  "hosts": [
-    {
-      "id": 1763616664713,
-      "nome": "TikTok",
-      "categoria": "SOLICITAÇÕES INTERNAS DE TAKEDOWN",
-      "link": "https://www.tiktok.com/legal/report/Trademark/?lang=pt-BR",
-      "instrucoes": "Incluir INPI e procuração\nPreencher form com nome do Sandro\nVerificar minuciosamente o preenchimento",
-      "obs": "Verificar ciclo de vida do report periódicamente"
-    },
-    {
-      "id": 1001,
-      "nome": "Carrd.co",
-      "categoria": "Links de Abuso e Takedown",
-      "link": "https://carrd.co/contact/copyright",
-      "instrucoes": "Seguir o processo de notificação de direitos autorais.",
-      "obs": ""
-    },
-    {
-      "id": 1002,
-      "nome": "Meta - WhatsApp",
-      "categoria": "Links de Abuso e Takedown",
-      "link": "https://www.whatsapp.com/contact/forms/5071674689613749/",
-      "instrucoes": "Utilizar o formulário de contato para questões específicas.",
-      "obs": ""
-    },
-    {
-      "id": 1003,
-      "nome": "Vercel",
-      "categoria": "Links de Abuso e Takedown",
-      "link": "https://vercel.com/abuse",
-      "instrucoes": "Preencher o formulário de denúncia de abuso.",
-      "obs": ""
-    },
-    {
-      "id": 1004,
-      "nome": "Ste Primo",
-      "categoria": "SOLICITAÇÕES INTERNAS DE TAKEDOWN",
-      "link": "https://steprimo.com/android/en/dmca/",
-      "instrucoes": "Preencher o formulário DMCA em nome do Sandro, semelhante ao procedimento do YouTube.",
-      "obs": "Verificar minuciosamente o preenchimento, incluindo todos os detalhes de contato."
-    },
-    {
-      "id": 1005,
-      "nome": "Reddit",
-      "categoria": "Links de Abuso e Takedown",
-      "link": "https://support.reddithelp.com/hc/en-us/requests/new?ticket_form_id=16510899084308",
-      "instrucoes": "Abrir um novo pedido de suporte no formulário específico.",
-      "obs": ""
-    },
-    {
-      "id": 1006,
-      "nome": "Bluesky",
-      "categoria": "Links de Abuso e Takedown",
-      "link": "https://docs.google.com/forms/d/e/1FAIpQLSc4EzXFaEkm1y3eu7cHyfb2YXqu9QRZB63KB9VXBaniJzqO8A/viewform",
-      "instrucoes": "Preencher o formulário do Google Docs para denúncia.",
-      "obs": ""
-    },
-    {
-      "id": 1007,
-      "nome": "Bio.site",
-      "categoria": "Links de Abuso e Takedown",
-      "link": "https://support.squarespace.com/hc/pt/requests/new?ticket_form_id=23285437445261",
-      "instrucoes": "Usar o formulário de solicitação de suporte da Squarespace.",
-      "obs": ""
-    },
-    {
-      "id": 1008,
-      "nome": "Bio.link",
-      "categoria": "Links de Abuso e Takedown",
-      "link": "https://bio.link/report",
-      "instrucoes": "Utilizar o link direto de denúncia.",
-      "obs": ""
-    },
-    {
-      "id": 1009,
-      "nome": "Docsity",
-      "categoria": "Links de Abuso e Takedown",
-      "link": "https://support.docsity.com/hc/pt-br/requests/new",
-      "instrucoes": "Abrir uma nova solicitação através do formulário de suporte.",
-      "obs": ""
-    },
-    {
-      "id": 1010,
-      "nome": "Hostinger",
-      "categoria": "Links de Abuso e Takedown",
-      "link": "https://www.hostinger.com.br/denunciar-abuso",
-      "instrucoes": "Seguir o processo de denúncia de abuso do Hostinger Brasil.",
-      "obs": ""
-    },
-    {
-      "id": 1011,
-      "nome": "Prezi",
-      "categoria": "Links de Abuso e Takedown",
-      "link": "https://prezi.com/contact/abuse/?click_source=logged_element&page_location=contact_options&element_text=abuse",
-      "instrucoes": "Utilizar o link de contato específico para abuso.",
-      "obs": ""
-    },
-    {
-      "id": 1012,
-      "nome": "Linktr.ee",
-      "categoria": "Links de Abuso e Takedown",
-      "link": "https://linktr.ee/s/about/trust-center/report/",
-      "instrucoes": "Acessar a central de confiança e preencher o formulário de denúncia.",
-      "obs": ""
-    },
-    {
-      "id": 1013,
-      "nome": "Mercado Livre",
-      "categoria": "Links de Abuso e Takedown",
-      "link": "https://www.mercadolivre.com.br/ajuda/form?hub_id=120&source_id=1628&track_id=c6ni11vj9rajlu8h77c0&problem_id=527&isRedirect=true",
-      "instrucoes": "Usar o formulário de ajuda específico para problemas.",
-      "obs": ""
-    },
-    {
-      "id": 1014,
-      "nome": "Scribd",
-      "categoria": "Links de Abuso e Takedown",
-      "link": "http://scribd.com/copyright/report-infringement",
-      "instrucoes": "Acessar a página de notificação de infração de direitos autorais.",
-      "obs": ""
-    },
-    {
-      "id": 1015,
-      "nome": "Docplayer",
-      "categoria": "Links de Abuso e Takedown",
-      "link": "https://docplayer.com.br/support/feedback/",
-      "instrucoes": "Utilizar o formulário de feedback (Nota: Consta como OFF no momento, verificar o status antes de usar).",
-      "obs": "OFF NO MOMENTO - Requer verificação."
-    },
-    {
-      "id": 1016,
-      "nome": "Bitly",
-      "categoria": "Links de Abuso e Takedown",
-      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeOH7U_4bEEx4u8K4QCIvcJYVBF1kxzdrItqcZffjBdIWfGIQ/reportabuse",
-      "instrucoes": "Preencher o formulário de denúncia de abuso.",
-      "obs": ""
-    },
-    {
-      "id": 1017,
-      "nome": "Digital Ocean",
-      "categoria": "Links de Abuso e Takedown",
-      "link": "https://www.digitalocean.com/company/contact#abuse",
-      "instrucoes": "Acessar a seção de contato para denúncia de abuso.",
-      "obs": ""
-    },
-    {
-      "id": 1018,
-      "nome": "Yolasite",
-      "categoria": "Links de Abuso e Takedown",
-      "link": "https://helpcenter.yola.com/hc/en-us/requests/new?ticket_form_id=360001504300",
-      "instrucoes": "Abrir um novo ticket de solicitação.",
-      "obs": ""
-    },
-    {
-      "id": 1019,
-      "nome": "Hostgator",
-      "categoria": "Links de Abuso e Takedown",
-      "link": "https://www.hostgator.com.br/denuncia",
-      "instrucoes": "Utilizar o link de denúncia do Hostgator Brasil.",
-      "obs": ""
-    },
-    {
-      "id": 1020,
-      "nome": "OVH SAS",
-      "categoria": "Links de Abuso e Takedown",
-      "link": "https://www.ovh.com/abuse/#!/",
-      "instrucoes": "Acessar a página de denúncia de abuso da OVH.",
-      "obs": ""
-    },
-    {
-      "id": 1021,
-      "nome": "Weebly",
-      "categoria": "Links de Abuso e Takedown",
-      "link": "https://www.weebly.com/br/spam",
-      "instrucoes": "Seguir o processo de denúncia de spam/abuso no Weebly.",
-      "obs": ""
-    },
-    {
-      "id": 1022,
-      "nome": "GoDaddy",
-      "categoria": "Links de Abuso e Takedown",
-      "link": "https://supportcenter.godaddy.com/AbuseReport?",
-      "instrucoes": "Preencher o formulário de Denúncia de Abuso da GoDaddy.",
-      "obs": ""
-    }
-  ]
-}
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Supervisão - Preh Portugal | Mercedes</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            -webkit-tap-highlight-color: transparent;
+        }
+
+        :root {
+            --accent: #00a4ef;
+            --accent-dark: #0077b6;
+            --bg: #f1f5f9;
+            --card: #ffffff;
+            --text: #0f172a;
+            --muted: #64748b;
+            --border: #e2e8f0;
+            --shadow: 0 4px 20px -2px rgba(0, 0, 0, 0.1);
+            --shadow-hover: 0 12px 30px -5px rgba(0, 0, 0, 0.15);
+        }
+
+        [data-theme="dark"] {
+            --bg: #020617;
+            --card: #1e293b;
+            --text: #f8fafc;
+            --muted: #94a3b8;
+            --border: #334155;
+        }
+
+        html {
+            scroll-behavior: smooth;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            transition: all 0.3s ease;
+            padding-bottom: 50px;
+        }
+
+        /* Header */
+        header {
+            background: #000;
+            padding: 30px 20px;
+            text-align: center;
+            box-shadow: var(--shadow);
+            position: relative;
+            overflow: hidden;
+        }
+
+        header::before {
+            content: '';
+            position: absolute;
+            inset: 0;
+            background: linear-gradient(135deg, rgba(0, 164, 239, 0.15) 0%, transparent 100%);
+        }
+
+        .header-content {
+            position: relative;
+            z-index: 2;
+        }
+
+        .logo-text {
+            font-size: clamp(1.3rem, 5vw, 1.8rem);
+            font-weight: 900;
+            color: #fff;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+        }
+
+        .logo-text span {
+            color: var(--accent);
+        }
+
+        /* Container */
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        /* Search Box */
+        .search-box {
+            margin-bottom: 25px;
+        }
+
+        #searchInput {
+            width: 100%;
+            padding: 14px 18px;
+            border-radius: 12px;
+            border: 2px solid var(--border);
+            background: var(--card);
+            color: var(--text);
+            font-size: 16px;
+            transition: all 0.2s ease;
+            font-family: inherit;
+        }
+
+        #searchInput:focus {
+            outline: none;
+            border-color: var(--accent);
+            box-shadow: 0 0 0 4px rgba(0, 164, 239, 0.1);
+        }
+
+        /* Quick Actions */
+        .quick-actions {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+            gap: 12px;
+            margin-bottom: 30px;
+        }
+
+        .btn-card {
+            background: var(--card);
+            padding: 18px;
+            border-radius: 14px;
+            border: 1px solid var(--border);
+            box-shadow: var(--shadow);
+            cursor: pointer;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 10px;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            color: var(--text);
+            font-weight: 700;
+            text-transform: uppercase;
+            font-size: 0.75rem;
+            letter-spacing: 0.5px;
+        }
+
+        .btn-card:active {
+            transform: scale(0.95);
+        }
+
+        .btn-card:hover {
+            transform: translateY(-4px);
+            box-shadow: var(--shadow-hover);
+            border-color: var(--accent);
+        }
+
+        .btn-card svg {
+            width: 28px;
+            height: 28px;
+            color: var(--accent);
+            transition: transform 0.3s ease;
+        }
+
+        .btn-card:hover svg {
+            transform: scale(1.15);
+        }
+
+        /* Section Header */
+        .section-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+            padding: 0 5px;
+        }
+
+        h3 {
+            font-size: 1.3rem;
+            font-weight: 800;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .badge {
+            background: var(--accent);
+            color: #fff;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 0.75rem;
+            font-weight: 700;
+        }
+
+        /* Reports Grid */
+        .reports-grid {
+            display: grid;
+            gap: 14px;
+            max-height: 75vh;
+            overflow-y: auto;
+            padding-right: 8px;
+            padding-bottom: 20px;
+        }
+
+        /* Scrollbar Customizada */
+        .reports-grid::-webkit-scrollbar {
+            width: 6px;
+        }
+
+        .reports-grid::-webkit-scrollbar-track {
+            background: transparent;
+        }
+
+        .reports-grid::-webkit-scrollbar-thumb {
+            background: var(--border);
+            border-radius: 10px;
+        }
+
+        .reports-grid::-webkit-scrollbar-thumb:hover {
+            background: var(--accent);
+        }
+
+        /* Report Card */
+        .report-card {
+            background: var(--card);
+            padding: 18px;
+            border-radius: 14px;
+            border: 1px solid var(--border);
+            box-shadow: var(--shadow);
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .report-card::before {
+            content: '';
+            position: absolute;
+            left: 0;
+            top: 0;
+            bottom: 0;
+            width: 5px;
+            background: var(--accent);
+            opacity: 0.8;
+        }
+
+        .report-card:hover {
+            box-shadow: var(--shadow-hover);
+            border-color: var(--accent);
+        }
+
+        .checkbox-wrapper {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            margin-bottom: 12px;
+        }
+
+        .custom-checkbox {
+            width: 20px;
+            height: 20px;
+            cursor: pointer;
+            accent-color: var(--accent);
+        }
+
+        .report-meta {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 10px;
+            font-size: 0.8rem;
+        }
+
+        .date-tag {
+            font-weight: 700;
+            color: var(--accent);
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .report-card h4 {
+            font-size: 1.1rem;
+            margin-bottom: 8px;
+            color: var(--text);
+            word-break: break-word;
+        }
+
+        .report-card p {
+            color: var(--muted);
+            font-size: 0.9rem;
+            line-height: 1.6;
+            white-space: pre-wrap;
+            word-break: break-word;
+            margin-bottom: 12px;
+        }
+
+        .report-img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+            margin-top: 12px;
+            display: block;
+            cursor: pointer;
+            transition: transform 0.3s ease;
+        }
+
+        .report-img:hover {
+            transform: scale(1.02);
+        }
+
+        /* Modal */
+        .modal-overlay {
+            position: fixed;
+            inset: 0;
+            background: rgba(0, 0, 0, 0.6);
+            backdrop-filter: blur(8px);
+            display: none;
+            align-items: center;
+            justify-content: center;
+            z-index: 1000;
+            padding: 20px;
+            animation: fadeIn 0.2s ease;
+        }
+
+        .modal-overlay.active {
+            display: flex;
+        }
+
+        .modal-card {
+            background: var(--card);
+            width: 100%;
+            max-width: 480px;
+            border-radius: 20px;
+            padding: 30px;
+            box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
+            border: 1px solid var(--border);
+            transform: translateY(20px);
+            transition: transform 0.3s ease;
+            max-height: 90vh;
+            overflow-y: auto;
+        }
+
+        .modal-overlay.active .modal-card {
+            transform: translateY(0);
+        }
+
+        .modal-card h2 {
+            margin-bottom: 20px;
+            font-size: 1.5rem;
+            font-weight: 800;
+        }
+
+        .input-group {
+            margin-bottom: 18px;
+        }
+
+        .input-group label {
+            display: block;
+            margin-bottom: 6px;
+            font-size: 0.8rem;
+            font-weight: 700;
+            color: var(--muted);
+            text-transform: uppercase;
+        }
+
+        input[type="text"],
+        input[type="file"],
+        textarea {
+            width: 100%;
+            padding: 12px;
+            border-radius: 10px;
+            border: 2px solid var(--border);
+            background: var(--bg);
+            color: var(--text);
+            font-family: inherit;
+            font-size: 1rem;
+            transition: all 0.2s ease;
+        }
+
+        input[type="text"]:focus,
+        input[type="file"]:focus,
+        textarea:focus {
+            outline: none;
+            border-color: var(--accent);
+            box-shadow: 0 0 0 4px rgba(0, 164, 239, 0.1);
+        }
+
+        textarea {
+            resize: vertical;
+            min-height: 100px;
+        }
+
+        .modal-actions {
+            display: flex;
+            gap: 10px;
+            margin-top: 25px;
+        }
+
+        .btn {
+            flex: 1;
+            padding: 12px;
+            border-radius: 10px;
+            border: none;
+            font-weight: 700;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            text-transform: uppercase;
+            font-size: 0.85rem;
+        }
+
+        .btn-save {
+            background: var(--accent);
+            color: #fff;
+        }
+
+        .btn-cancel {
+            background: var(--border);
+            color: var(--text);
+        }
+
+        .btn:hover {
+            filter: brightness(1.1);
+            transform: translateY(-2px);
+        }
+
+        /* Empty State */
+        .empty-state {
+            text-align: center;
+            padding: 60px 20px;
+            background: var(--card);
+            border-radius: 16px;
+            border: 2px dashed var(--border);
+        }
+
+        .empty-state svg {
+            width: 56px;
+            height: 56px;
+            color: var(--border);
+            margin-bottom: 16px;
+        }
+
+        .empty-state p {
+            color: var(--muted);
+            font-size: 1rem;
+        }
+
+        /* Animações */
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+            }
+            to {
+                opacity: 1;
+            }
+        }
+
+        /* Responsividade */
+        @media (max-width: 600px) {
+            .container {
+                padding: 15px;
+            }
+
+            .quick-actions {
+                grid-template-columns: 1fr 1fr;
+            }
+
+            .report-card {
+                padding: 14px;
+            }
+
+            .modal-card {
+                padding: 20px;
+            }
+
+            h3 {
+                font-size: 1.1rem;
+            }
+        }
+
+        /* Print */
+        @media print {
+            body {
+                background: white;
+                color: black;
+            }
+
+            header,
+            .search-box,
+            .quick-actions,
+            .section-header,
+            .checkbox-wrapper,
+            .modal-overlay {
+                display: none !important;
+            }
+
+            .reports-grid {
+                max-height: none;
+                overflow: visible;
+            }
+
+            .report-card {
+                break-inside: avoid;
+                border: 1px solid #ccc;
+                box-shadow: none;
+                margin-bottom: 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <div class="header-content">
+            <div class="logo-text">PREH <span>MERCEDES</span></div>
+        </div>
+    </header>
+
+    <div class="container">
+        <div class="search-box">
+            <input type="text" id="searchInput" placeholder="🔍 Pesquisar ocorrências..." onkeyup="filterReports()">
+        </div>
+
+        <div class="quick-actions">
+            <div class="btn-card" onclick="openModal()">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+                    <line x1="12" y1="5" x2="12" y2="19"></line>
+                    <line x1="5" y1="12" x2="19" y2="12"></line>
+                </svg>
+                Novo Registro
+            </div>
+            <div class="btn-card" onclick="printSelected()">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+                    <polyline points="6 9 6 2 18 2 18 9"></polyline>
+                    <path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path>
+                    <rect x="6" y="14" width="12" height="8"></rect>
+                </svg>
+                Exportar
+            </div>
+            <div class="btn-card" onclick="deleteSelected()">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+                    <polyline points="3 6 5 6 21 6"></polyline>
+                    <path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"></path>
+                </svg>
+                Apagar
+            </div>
+            <div class="btn-card" onclick="toggleTheme()">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+                    <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                </svg>
+                Tema
+            </div>
+        </div>
+
+        <div class="section-header">
+            <h3>
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+                    <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
+                    <polyline points="14 2 14 8 20 8"></polyline>
+                </svg>
+                Ocorrências
+            </h3>
+            <span class="badge" id="reportCount">0</span>
+        </div>
+
+        <div id="reportList" class="reports-grid"></div>
+    </div>
+
+    <!-- Modal -->
+    <div id="modalReport" class="modal-overlay" onclick="handleOverlayClick(event)">
+        <div class="modal-card">
+            <h2>Novo Registro</h2>
+            <div class="input-group">
+                <label>Título da Ocorrência</label>
+                <input type="text" id="repTitle" placeholder="Ex: Parada de Linha">
+            </div>
+            <div class="input-group">
+                <label>Descrição Detalhada</label>
+                <textarea id="repText" placeholder="Descreva o que aconteceu..."></textarea>
+            </div>
+            <div class="input-group">
+                <label>Anexar Imagem (Opcional)</label>
+                <input type="file" id="repImg" accept="image/*">
+            </div>
+            <div class="modal-actions">
+                <button class="btn btn-cancel" onclick="closeModal()">Cancelar</button>
+                <button class="btn btn-save" onclick="saveReport()">Salvar</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Constantes
+        const STORAGE_KEY = 'reports_supervisores_v2';
+        const THEME_KEY = 'reports_theme';
+        let reports = [];
+        let filteredReports = [];
+
+        // Inicialização
+        function init() {
+            loadReports();
+            loadTheme();
+            renderReports();
+        }
+
+        // Tema
+        function loadTheme() {
+            const theme = localStorage.getItem(THEME_KEY) || 'light';
+            document.documentElement.setAttribute('data-theme', theme);
+        }
+
+        function toggleTheme() {
+            const current = document.documentElement.getAttribute('data-theme');
+            const next = current === 'light' ? 'dark' : 'light';
+            document.documentElement.setAttribute('data-theme', next);
+            localStorage.setItem(THEME_KEY, next);
+        }
+
+        // LocalStorage
+        function loadReports() {
+            try {
+                reports = JSON.parse(localStorage.getItem(STORAGE_KEY) || '[]');
+                filteredReports = [...reports];
+            } catch (e) {
+                console.error('Erro ao carregar:', e);
+                reports = [];
+                filteredReports = [];
+            }
+        }
+
+        function saveReports() {
+            try {
+                localStorage.setItem(STORAGE_KEY, JSON.stringify(reports));
+            } catch (e) {
+                alert('Erro ao salvar. Verifique o espaço disponível.');
+            }
+        }
+
+        // Modal
+        function openModal() {
+            document.getElementById('modalReport').classList.add('active');
+            document.getElementById('repTitle').focus();
+        }
+
+        function closeModal() {
+            document.getElementById('modalReport').classList.remove('active');
+            document.getElementById('repTitle').value = '';
+            document.getElementById('repText').value = '';
+            document.getElementById('repImg').value = '';
+        }
+
+        function handleOverlayClick(e) {
+            if (e.target.id === 'modalReport') closeModal();
+        }
+
+        // CRUD
+        function saveReport() {
+            const title = document.getElementById('repTitle').value.trim();
+            const text = document.getElementById('repText').value.trim();
+            const fileInput = document.getElementById('repImg');
+
+            if (!title || !text) {
+                alert('Preencha título e descrição.');
+                return;
+            }
+
+            if (fileInput.files && fileInput.files[0]) {
+                const reader = new FileReader();
+                reader.onload = (e) => {
+                    addReport(title, text, e.target.result);
+                };
+                reader.readAsDataURL(fileInput.files[0]);
+            } else {
+                addReport(title, text, null);
+            }
+        }
+
+        function addReport(title, text, imgBase64) {
+            const now = new Date();
+            const dateStr = now.toLocaleDateString('pt-BR') + ' ' + now.toLocaleTimeString('pt-BR', {
+                hour: '2-digit',
+                minute: '2-digit'
+            });
+
+            reports.unshift({
+                id: Date.now(),
+                title,
+                text,
+                date: dateStr,
+                img: imgBase64
+            });
+
+            saveReports();
+            filteredReports = [...reports];
+            renderReports();
+            closeModal();
+        }
+
+        function renderReports() {
+            const list = document.getElementById('reportList');
+            const count = document.getElementById('reportCount');
+
+            count.innerText = reports.length;
+
+            if (filteredReports.length === 0) {
+                list.innerHTML = `
+                    <div class="empty-state">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <circle cx="12" cy="12" r="10"></circle>
+                            <line x1="12" y1="8" x2="12" y2="12"></line>
+                            <line x1="12" y1="16" x2="12.01" y2="16"></line>
+                        </svg>
+                        <p>Nenhum registro encontrado.</p>
+                    </div>
+                `;
+                return;
+            }
+
+            list.innerHTML = filteredReports.map((r, i) => `
+                <div class="report-card">
+                    <div class="checkbox-wrapper">
+                        <input type="checkbox" class="custom-checkbox select-report" data-id="${r.id}">
+                        <div style="flex: 1;">
+                            <div class="report-meta">
+                                <span class="date-tag">${r.date}</span>
+                            </div>
+                            <h4>${escapeHtml(r.title)}</h4>
+                            <p>${escapeHtml(r.text)}</p>
+                            ${r.img ? `<img src="${r.img}" class="report-img" onclick="viewImage(this)">` : ''}
+                        </div>
+                    </div>
+                </div>
+            `).join('');
+        }
+
+        function filterReports() {
+            const query = document.getElementById('searchInput').value.toLowerCase();
+            filteredReports = reports.filter(r =>
+                r.title.toLowerCase().includes(query) ||
+                r.text.toLowerCase().includes(query)
+            );
+            renderReports();
+        }
+
+        function deleteSelected() {
+            const checked = Array.from(document.querySelectorAll('.select-report:checked'))
+                .map(cb => parseInt(cb.dataset.id));
+
+            if (checked.length === 0) {
+                alert('Selecione registros para apagar.');
+                return;
+            }
+
+            if (confirm(`Apagar ${checked.length} registro(s)?`)) {
+                reports = reports.filter(r => !checked.includes(r.id));
+                saveReports();
+                filteredReports = [...reports];
+                renderReports();
+            }
+        }
+
+        function printSelected() {
+            const checked = Array.from(document.querySelectorAll('.select-report:checked'))
+                .map(cb => cb.dataset.id);
+
+            if (checked.length === 0) {
+                alert('Selecione registros para exportar.');
+                return;
+            }
+
+            const selected = reports.filter(r => checked.includes(r.id.toString()));
+            const printWindow = window.open('', '_blank');
+            let html = `
+                <html>
+                <head>
+                    <title>Relatório - Preh Portugal</title>
+                    <style>
+                        body { font-family: sans-serif; padding: 40px; color: #333; }
+                        .header { border-bottom: 3px solid #00a4ef; padding-bottom: 20px; margin-bottom: 30px; }
+                        .report { margin-bottom: 40px; page-break-inside: avoid; }
+                        .date { color: #00a4ef; font-weight: bold; font-size: 0.8rem; }
+                        h2 { margin: 5px 0 15px 0; }
+                        p { line-height: 1.6; white-space: pre-wrap; }
+                        img { max-width: 100%; margin-top: 10px; }
+                        .footer { margin-top: 50px; font-size: 0.7rem; color: #999; text-align: center; border-top: 1px solid #eee; padding-top: 20px; }
+                    </style>
+                </head>
+                <body>
+                    <div class="header">
+                        <h1>PREH PORTUGAL</h1>
+                        <p>Relatório de Ocorrências - Equipa Mercedes</p>
+                    </div>
+            `;
+
+            selected.forEach(r => {
+                html += `
+                    <div class="report">
+                        <span class="date">${r.date}</span>
+                        <h2>${r.title}</h2>
+                        <p>${r.text}</p>
+                        ${r.img ? `<img src="${r.img}">` : ''}
+                    </div>
+                `;
+            });
+
+            html += `
+                    <div class="footer">
+                        Gerado automaticamente - Sistema de Supervisão Preh Portugal v2.0
+                    </div>
+                </body>
+                </html>
+            `;
+
+            printWindow.document.write(html);
+            printWindow.document.close();
+            setTimeout(() => printWindow.print(), 250);
+        }
+
+        function viewImage(img) {
+            const modal = window.open('', '_blank');
+            modal.document.write(`<img src="${img.src}" style="max-width: 100%; max-height: 100vh;">`);
+            modal.document.close();
+        }
+
+        // Utilitários
+        function escapeHtml(text) {
+            const map = {
+                '&': '&amp;',
+                '<': '&lt;',
+                '>': '&gt;',
+                '"': '&quot;',
+                "'": '&#039;'
+            };
+            return text.replace(/[&<>"']/g, m => map[m]);
+        }
+
+        // Iniciar
+        init();
+    </script>
+
+</body>
+</html>
